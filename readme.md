@@ -23,3 +23,18 @@ O Expo é uma ferramenta projetada para simplificar o desenvolvimento de aplicat
    Quando solicitado, escolha a opção **Blank** para criar um projeto com o mínimo necessário para começar.
 
 
+## Princiais Componententes do React Native: 
+Os componentes do React Native são utilizados na construção do layout do nosso App. 
+Os principais componentes são divididos em duas partes: 
+Componentes Básicos: 
+- View
+- Image
+- Scrollview
+- Text
+- text Input
+- Stylesheet
+
+Componentes de Interface do usuário: 
+- Button
+- Switch
+
